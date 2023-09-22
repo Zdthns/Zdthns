@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there 👋</h1>
 <h3>My name is Anna and i am a web-developer</h3>
 
-- 🌱 I have completed a course of study from Yandex.practicum
+- 🌱 I took a training course at Yandex.practicum
 - 📫 to contact me, use anna_webmaster@mail.ru
 
 - <h3>Languages and Tools:</h3>
