@@ -7,7 +7,7 @@
 - 🌱 I took a training course at <a href="https://practicum.yandex.ru/"/>Yandex.practicum
 </p>
 <p align="center">
-- 📫 to contact me, use adres <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <a href="mailto:anna_webmaster@mail.ru">anna_webmaster@mail.ru/>
+- 📫 to contact me, use adres  <a href="mailto:anna_webmaster@mail.ru">anna_webmaster@mail.ru</a>
 </p>
 - <h3>Languages and Tools:</h3>
 
